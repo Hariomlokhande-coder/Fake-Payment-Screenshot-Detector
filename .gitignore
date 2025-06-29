@@ -1,0 +1,32 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.dll
+# Environment variables
+.env
+.env.*
+
+# VSCode settings
+.vscode/
+
+# Executables and logs
+*.exe
+*.log
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# PyInstaller files (if using to create .exe)
+build/
+dist/
+*.spec
