@@ -101,7 +101,7 @@ Edit
 
 ---
 
-## 💡 Use Cases
+## 💡 Use Cases 
 
 - Freelancers accepting UPI payments
 - Online sellers verifying buyer payments
