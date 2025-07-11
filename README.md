@@ -112,16 +112,8 @@ Edit
 
 ## 👨‍💻 Author
 
-**Developed by:** Rashmi Kumari  
-Feel free to reach out via  Email: rashmi8shahi@gmail.com for collaboration or suggestions!
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — feel free to use and contribute.
-
----
+**Developed by:** Hariom Lokhande 
+Feel free to reach out via  Email: hariomlokhande3456@gmail.com for collaboration or suggestions!
 
 ## 🙌 Contributions Welcome!
 
